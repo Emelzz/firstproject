@@ -133,3 +133,21 @@ a{
         padding-left: left;
     }
 }
+
+/* icons */
+.icon{
+    width:40px;
+    height:40px;
+}
+.icon--primary{
+    fill: var(--color-primary);
+}
+.icon-container{
+    background: #f3f9fa;
+    height: 64px;
+    width: 64px;
+    border-radius: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
